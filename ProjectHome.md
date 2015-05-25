@@ -1,0 +1,1 @@
+fsxsct decodes MSFS X afcad files of airports and converts data to sct and ese files. Intended for Euroscope/Vatsim.
